@@ -1,16 +1,16 @@
 {
-    "name": "smalls/video-tools",
+    "name": "yuanzhumc/analysisVideo",
     "description": "短视频的拓展包，集成各大短视频的去水印功能",
     "type": "library",
     "keywords": [
-        "smalls",
-        "video-tools"
+        "yuanzhumc",
+        "analysisVideo"
     ],
     "license": "MIT",
     "authors": [
         {
             "name": "Smalls",
-            "email": "smalls0098@gmail.com"
+            "email": "yuanzhumc@gmail.com"
         }
     ],
     "require": {
