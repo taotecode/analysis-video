@@ -1,30 +1,30 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools;
+namespace yuanzhumc\analysisVideo;
 
-use Smalls\VideoTools\Exception\InvalidManagerException;
-use Smalls\VideoTools\Interfaces\IVideo;
-use Smalls\VideoTools\Tools\Bili;
-use Smalls\VideoTools\Tools\DouYin;
-use Smalls\VideoTools\Tools\HuoShan;
-use Smalls\VideoTools\Tools\KuaiShou;
-use Smalls\VideoTools\Tools\LiVideo;
-use Smalls\VideoTools\Tools\MeiPai;
-use Smalls\VideoTools\Tools\MiaoPai;
-use Smalls\VideoTools\Tools\MoMo;
-use Smalls\VideoTools\Tools\PiPiGaoXiao;
-use Smalls\VideoTools\Tools\PiPiXia;
-use Smalls\VideoTools\Tools\QQVideo;
-use Smalls\VideoTools\Tools\QuanMingGaoXiao;
-use Smalls\VideoTools\Tools\ShuaBao;
-use Smalls\VideoTools\Tools\TaoBao;
-use Smalls\VideoTools\Tools\TouTiao;
-use Smalls\VideoTools\Tools\WeiBo;
-use Smalls\VideoTools\Tools\WeiShi;
-use Smalls\VideoTools\Tools\XiaoKaXiu;
-use Smalls\VideoTools\Tools\XiGua;
-use Smalls\VideoTools\Tools\ZuiYou;
+use yuanzhumc\analysisVideo\Exception\InvalidManagerException;
+use yuanzhumc\analysisVideo\Interfaces\IVideo;
+use yuanzhumc\analysisVideo\Tools\Bili;
+use yuanzhumc\analysisVideo\Tools\DouYin;
+use yuanzhumc\analysisVideo\Tools\HuoShan;
+use yuanzhumc\analysisVideo\Tools\KuaiShou;
+use yuanzhumc\analysisVideo\Tools\LiVideo;
+use yuanzhumc\analysisVideo\Tools\MeiPai;
+use yuanzhumc\analysisVideo\Tools\MiaoPai;
+use yuanzhumc\analysisVideo\Tools\MoMo;
+use yuanzhumc\analysisVideo\Tools\PiPiGaoXiao;
+use yuanzhumc\analysisVideo\Tools\PiPiXia;
+use yuanzhumc\analysisVideo\Tools\QQVideo;
+use yuanzhumc\analysisVideo\Tools\QuanMingGaoXiao;
+use yuanzhumc\analysisVideo\Tools\ShuaBao;
+use yuanzhumc\analysisVideo\Tools\TaoBao;
+use yuanzhumc\analysisVideo\Tools\TouTiao;
+use yuanzhumc\analysisVideo\Tools\WeiBo;
+use yuanzhumc\analysisVideo\Tools\WeiShi;
+use yuanzhumc\analysisVideo\Tools\XiaoKaXiu;
+use yuanzhumc\analysisVideo\Tools\XiGua;
+use yuanzhumc\analysisVideo\Tools\ZuiYou;
 
 /**
  * Created By 1

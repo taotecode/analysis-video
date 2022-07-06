@@ -3,8 +3,8 @@
 namespace Smalls\Tests\Tools;
 
 use PHPUnit\Framework\TestCase;
-use Smalls\VideoTools\Enumerates\BiliQualityType;
-use Smalls\VideoTools\VideoManager;
+use yuanzhumc\analysisVideo\Enumerates\BiliQualityType;
+use yuanzhumc\analysisVideo\VideoManager;
 
 class BiliTest extends TestCase
 {

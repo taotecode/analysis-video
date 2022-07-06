@@ -1,9 +1,9 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Logic;
+namespace yuanzhumc\analysisVideo\Logic;
 
-use Smalls\VideoTools\Exception\ErrorVideoException;
+use yuanzhumc\analysisVideo\Exception\ErrorVideoException;
 
 /**
  * Created By 1

@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Exception;
+namespace yuanzhumc\analysisVideo\Exception;
 
 /**
  * Created By 1

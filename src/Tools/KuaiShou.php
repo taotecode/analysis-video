@@ -1,10 +1,10 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Tools;
+namespace yuanzhumc\analysisVideo\Tools;
 
-use Smalls\VideoTools\Interfaces\IVideo;
-use Smalls\VideoTools\Logic\H5KuaiShouLogic;
+use yuanzhumc\analysisVideo\Interfaces\IVideo;
+use yuanzhumc\analysisVideo\Logic\H5KuaiShouLogic;
 
 /**
  * Created By 1

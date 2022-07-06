@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Enumerates;
+namespace yuanzhumc\analysisVideo\Enumerates;
 
 /**
  * Created By 1

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Smalls\VideoTools\Utils;
+namespace yuanzhumc\analysisVideo\Utils;
 
 use ArrayAccess;
 use ArrayIterator;

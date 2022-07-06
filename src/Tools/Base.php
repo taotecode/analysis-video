@@ -1,11 +1,11 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Tools;
+namespace yuanzhumc\analysisVideo\Tools;
 
 
-use Smalls\VideoTools\Common\Common;
-use Smalls\VideoTools\Exception\InvalidManagerException;
+use yuanzhumc\analysisVideo\Common\Common;
+use yuanzhumc\analysisVideo\Exception\InvalidManagerException;
 
 /**
  * Created By 1

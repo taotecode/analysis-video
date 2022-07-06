@@ -1,6 +1,6 @@
 <?php
 
-namespace Smalls\VideoTools\Utils;
+namespace yuanzhumc\analysisVideo\Utils;
 
 use Exception;
 /**

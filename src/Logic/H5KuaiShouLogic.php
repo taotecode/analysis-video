@@ -1,10 +1,10 @@
 <?php
 
-namespace Smalls\VideoTools\Logic;
+namespace yuanzhumc\analysisVideo\Logic;
 
-use Smalls\VideoTools\Enumerates\UserGentType;
-use Smalls\VideoTools\Exception\ErrorVideoException;
-use Smalls\VideoTools\Utils\CommonUtil;
+use yuanzhumc\analysisVideo\Enumerates\UserGentType;
+use yuanzhumc\analysisVideo\Exception\ErrorVideoException;
+use yuanzhumc\analysisVideo\Utils\CommonUtil;
 
 /**
  * 努力努力再努力！！！！！

@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Interfaces;
+namespace yuanzhumc\analysisVideo\Interfaces;
 /**
  * Created By 1
  * Author：smalls

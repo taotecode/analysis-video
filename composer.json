@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Smalls\\VideoTools\\": "src"
+            "yuanzhumc\\analysisVideo\\": "src"
         },
         "files": [
             "config/url-validator.php"

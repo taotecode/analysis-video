@@ -6,7 +6,7 @@
  * Date：2020/4/26 - 22:15
  **/
 
-use Smalls\VideoTools\VideoManager;
+use yuanzhumc\analysisVideo\VideoManager;
 
 require '../vendor/autoload.php';
 

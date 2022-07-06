@@ -1,10 +1,10 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Common;
+namespace yuanzhumc\analysisVideo\Common;
 
-use Smalls\VideoTools\Exception\Exception;
-use Smalls\VideoTools\Utils\Config;
+use yuanzhumc\analysisVideo\Exception\Exception;
+use yuanzhumc\analysisVideo\Utils\Config;
 
 /**
  * 努力努力再努力！！！！！

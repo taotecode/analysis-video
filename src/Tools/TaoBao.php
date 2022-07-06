@@ -1,8 +1,8 @@
 <?php
 
-namespace Smalls\VideoTools\Tools;
+namespace yuanzhumc\analysisVideo\Tools;
 
-use Smalls\VideoTools\Interfaces\IVideo;
+use yuanzhumc\analysisVideo\Interfaces\IVideo;
 
 /**
  * 努力努力再努力！！！！！

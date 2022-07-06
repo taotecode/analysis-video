@@ -1,10 +1,10 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Tools;
+namespace yuanzhumc\analysisVideo\Tools;
 
-use Smalls\VideoTools\Enumerates\BiliQualityType;
-use Smalls\VideoTools\Interfaces\IVideo;
+use yuanzhumc\analysisVideo\Enumerates\BiliQualityType;
+use yuanzhumc\analysisVideo\Interfaces\IVideo;
 
 /**
  * Created By 1

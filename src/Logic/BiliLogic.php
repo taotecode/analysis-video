@@ -1,12 +1,12 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Logic;
+namespace yuanzhumc\analysisVideo\Logic;
 
-use Smalls\VideoTools\Enumerates\BiliQualityType;
-use Smalls\VideoTools\Enumerates\UserGentType;
-use Smalls\VideoTools\Exception\ErrorVideoException;
-use Smalls\VideoTools\Utils\CommonUtil;
+use yuanzhumc\analysisVideo\Enumerates\BiliQualityType;
+use yuanzhumc\analysisVideo\Enumerates\UserGentType;
+use yuanzhumc\analysisVideo\Exception\ErrorVideoException;
+use yuanzhumc\analysisVideo\Utils\CommonUtil;
 
 /**
  * Created By 1

@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Traits;
+namespace yuanzhumc\analysisVideo\Traits;
 
 use GuzzleHttp\Client;
 use Psr\Http\Message\ResponseInterface;

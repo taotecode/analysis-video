@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Tools;
+namespace yuanzhumc\analysisVideo\Tools;
 /**
  * Created By 1
  * Author：smalls
@@ -9,7 +9,7 @@ namespace Smalls\VideoTools\Tools;
  * Date：2020/4/26 - 21:57
  **/
 
-use Smalls\VideoTools\Interfaces\IVideo;
+use yuanzhumc\analysisVideo\Interfaces\IVideo;
 
 class PiPiXia extends Base implements IVideo
 {

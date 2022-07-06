@@ -1,10 +1,10 @@
 <?php
 declare (strict_types=1);
 
-namespace Smalls\VideoTools\Logic;
+namespace yuanzhumc\analysisVideo\Logic;
 
-use Smalls\VideoTools\Exception\ErrorVideoException;
-use Smalls\VideoTools\Utils\CommonUtil;
+use yuanzhumc\analysisVideo\Exception\ErrorVideoException;
+use yuanzhumc\analysisVideo\Utils\CommonUtil;
 
 /**
  * Created By 1

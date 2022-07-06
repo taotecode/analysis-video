@@ -102,7 +102,7 @@ composer update yuanzhumc/analysis-video
    --
    ````
        需要进行try-catch
-       namespace \Smalls\VideoTools\Exception;
+       namespace \yuanzhumc\analysisVideo\Exception;
        try {
            $res = VideoManager::KuaiShou()->start("https://v.kuaishou.com/xxxx");
        } catch (ErrorVideoException $e) {
