@@ -1,6 +1,6 @@
 <?php
 
-namespace Smalls\Tests\Tools;
+namespace yuanzhumc\Tests\Tools;
 
 use PHPUnit\Framework\TestCase;
 use yuanzhumc\analysisVideo\Enumerates\BiliQualityType;
