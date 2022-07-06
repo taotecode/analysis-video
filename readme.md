@@ -3,10 +3,10 @@ analysisVideo<br>
 <small>短视频去水印</small>
 </h1>
 <p>
-<a href="https://packagist.org/packages/yuanzhumc/analysisVideo"><img src="https://poser.pugx.org/yuanzhumc/analysisVideo/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/yuanzhumc/analysisVideo"><img src="https://poser.pugx.org/yuanzhumc/analysisVideo/downloads" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/yuanzhumc/analysisVideo"><img src="https://poser.pugx.org/yuanzhumc/analysisVideo/v/unstable" alt="Latest Unstable Version"></a>
-<a href="https://packagist.org/packages/yuanzhumc/analysisVideo"><img src="https://poser.pugx.org/yuanzhumc/analysisVideo/license" alt="License"></a>
+<a href="https://packagist.org/packages/yuanzhumc/analysis-video"><img src="https://poser.pugx.org/yuanzhumc/analysis-video/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/yuanzhumc/analysis-video"><img src="https://poser.pugx.org/yuanzhumc/analysis-video/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/yuanzhumc/analysis-video"><img src="https://poser.pugx.org/yuanzhumc/analysis-video/v/unstable" alt="Latest Unstable Version"></a>
+<a href="https://packagist.org/packages/yuanzhumc/analysis-video"><img src="https://poser.pugx.org/yuanzhumc/analysis-video/license" alt="License"></a>
 </p>
 
 
@@ -24,16 +24,16 @@ analysisVideo<br>
 
 #### 安装方法一：（需要下载composer.phar到根目录，设置PHP为全局变量）
 ```php
-php composerphar require yuanzhumc/analysisVideo
+php composerphar require yuanzhumc/analysis-video
 ```
 #### 安装方法二：
 ```php
-composer require yuanzhumc/analysisVideo
+composer require yuanzhumc/analysis-video
 ```
 
 #### 如果需要更新扩展包使用
 ```php
-composer update yuanzhumc/analysisVideo
+composer update yuanzhumc/analysis-video
 ```
 
 ********
